@@ -29,7 +29,7 @@ npm start
 
 ## Live Demo
 
-Add your Netlify/Vercel link here
+https://pgbike.netlify.app/
 
 ## Author
 
