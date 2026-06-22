@@ -38,11 +38,11 @@ PG Drive is a full-stack rental management platform that helps users discover an
 
 ### Home Page
 
-![Home Page](./screenshot/Home.png)
+![Home Page](./src/screenshot/Home.png)
 
 ### Owner Login
 
-![Owner Login](./screenshot/Login.png)
+![Owner Login](./src/screenshot/Login.png)
 
 ## Installation
 
